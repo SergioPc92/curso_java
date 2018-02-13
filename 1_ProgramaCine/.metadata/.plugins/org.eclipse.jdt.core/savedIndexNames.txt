@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+C:\Users\Usuario\Desktop\Curso ANDROID\practicas java\1_ProgramaCine\.metadata\.plugins\org.eclipse.jdt.core
+4040107404.index
